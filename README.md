@@ -14,7 +14,7 @@
     <img src="https://camo.githubusercontent.com/e8557216201ebd9be8d3b5570985b11e868e84887cd62e3cf0edc15ab8b315ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646973636f72642d6a6f696e2d636f6e74696e75652e7376673f6c6162656c436f6c6f723d31393139333726636f6c6f723d364636464637266c6f676f3d646973636f7264" style="height: 22px; max-width: 100%;" data-canonical-src="https://img.shields.io/badge/discord-join-continue.svg?labelColor=191937&amp;color=6F6FF7&amp;logo=discord">
 </a>
 <p dir="auto"></p>
-<p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/continuedev/continue/blob/main/media/readme.gif" data-target="animated-image.originalLink"><img src="/continuedev/continue/raw/main/media/readme.gif" alt="继续编辑" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/continuedev/continue/blob/main/media/readme.gif" data-target="animated-image.originalLink"><img src="https://github.com/continuedev/continue/raw/main/media/readme.gif" alt="继续编辑" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/continuedev/continue/blob/main/media/readme.gif" target="_blank">
           
