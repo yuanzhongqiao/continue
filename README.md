@@ -1,75 +1,79 @@
-![Continue logo](media/c_d.png)
-
-<h1 align="center">Continue</h1>
-
-<div align="center">
-
-**[Continue](https://continue.dev/docs) is an open-source autopilot for [VS Code](https://marketplace.visualstudio.com/items?itemName=Continue.continue) and [JetBrains](https://plugins.jetbrains.com/plugin/22707-continue-extension)—the easiest way to code with any LLM**
-
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/continuedev/continue/blob/main/media/c_d.png"><img src="/continuedev/continue/raw/main/media/c_d.png" alt="继续标志" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">继续</font></font></h1><a id="user-content-continue" class="anchor" aria-label="永久链接：继续" href="#continue"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div align="center" dir="auto">
+<p dir="auto"><strong><a href="https://continue.dev/docs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Continue是</font></font></a><font style="vertical-align: inherit;"></font><a href="https://marketplace.visualstudio.com/items?itemName=Continue.continue" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VS Code</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://plugins.jetbrains.com/plugin/22707-continue-extension" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JetBrains</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">的开源自动驾驶仪</font><font style="vertical-align: inherit;">- 使用任何 LLM 进行编码的最简单方法</font></font></strong></p>
 </div>
-
-<div align="center">
-
-<a target="_blank" href="https://opensource.org/licenses/Apache-2.0" style="background:none">
-    <img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" style="height: 22px;" />
+<div align="center" dir="auto">
+<a href="https://opensource.org/licenses/Apache-2.0" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/44bc63cdf9bc4b15dcf019006fc6e19bc712fc031f39fab78c0c4595b2967e93/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d4170616368655f322e302d626c75652e737667" style="height: 22px; max-width: 100%;" data-canonical-src="https://img.shields.io/badge/License-Apache_2.0-blue.svg">
 </a>
-<a target="_blank" href="https://continue.dev/docs" style="background:none">
-    <img src="https://img.shields.io/badge/continue_docs-%23BE1B55" style="height: 22px;" />
+<a href="https://continue.dev/docs" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/3c617aca17778423b04cc752fba74cab6d9a41a93814af3c8773d0d92945e036/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e74696e75655f646f63732d253233424531423535" style="height: 22px; max-width: 100%;" data-canonical-src="https://img.shields.io/badge/continue_docs-%23BE1B55">
 </a>
-<a target="_blank" href="https://discord.gg/vapESyrFmJ" style="background:none">
-    <img src="https://img.shields.io/badge/discord-join-continue.svg?labelColor=191937&color=6F6FF7&logo=discord" style="height: 22px;" />
+<a href="https://discord.gg/vapESyrFmJ" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/e8557216201ebd9be8d3b5570985b11e868e84887cd62e3cf0edc15ab8b315ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646973636f72642d6a6f696e2d636f6e74696e75652e7376673f6c6162656c436f6c6f723d31393139333726636f6c6f723d364636464637266c6f676f3d646973636f7264" style="height: 22px; max-width: 100%;" data-canonical-src="https://img.shields.io/badge/discord-join-continue.svg?labelColor=191937&amp;color=6F6FF7&amp;logo=discord">
 </a>
-
-<p></p>
-
-![Editing With Continue](media/readme.gif)
-
+<p dir="auto"></p>
+<p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/continuedev/continue/blob/main/media/readme.gif" data-target="animated-image.originalLink"><img src="/continuedev/continue/raw/main/media/readme.gif" alt="继续编辑" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/continuedev/continue/blob/main/media/readme.gif" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="Editing With Continue" class="AnimatedImagePlayer-animatedImage" src="https://github.com/continuedev/continue/raw/main/media/readme.gif" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="798" height="540"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Editing With Continue" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Editing With Continue">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open Editing With Continue in new window" class="AnimatedImagePlayer-button" href="https://github.com/continuedev/continue/blob/main/media/readme.gif" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image></p>
 </div>
-
-## Task and tab autocomplete
-
-### Answer coding questions
-
-Highlight + select sections of code and ask Continue for another perspective
-
-- “what does this forRoot() static function do in nestjs?”
-- “why is the first left join in this query necessary here?”
-- “how do I run a performance benchmark on this rust binary?”
-
-### Edit in natural language
-
-Highlight + select a section of code and instruct Continue to refactor it
-
-- “/edit rewrite this to return a flattened list from a 3x3 matrix”
-- “/edit refactor these into an angular flex layout on one line"
-- “/edit define a type here for a list of lists of dictionaries”
-
-### Generate files from scratch
-
-Open a blank file and let Continue start new Python scripts, React components, etc.
-
-- “/edit get me started with a basic supabase edge function”
-- “/edit implement a c++ shortest path algo in a concise way”
-- “/edit create a docker compose file with php and mysql server"
-
-### And much more!
-
-- Try out [experimental support for local tab autocomplete](https://continue.dev/docs/walkthroughs/tab-autocomplete) in VS Code
-- Use [built-in context providers](https://continue.dev/docs/customization/context-providers#built-in-context-providers) or create your own [custom context providers](https://continue.dev/docs/customization/context-providers#building-your-own-context-provider)
-- Use [built-in slash commands](https://arc.net/l/quote/zbhwfjmp) or create your own [custom slash commands](https://continue.dev/docs/customization/slash-commands#custom-slash-commands)
-
-## Getting Started
-
-#### Download for [VS Code](https://marketplace.visualstudio.com/items?itemName=Continue.continue) and [JetBrains](https://plugins.jetbrains.com/plugin/22707-continue-extension)
-
-You can try out Continue for free using a proxy server that securely makes calls with our API key to models like GPT-4, Gemini Pro, and Phind CodeLlama via OpenAI, Google, and Together respectively.
-
-Once you're ready to use your own API key or a different model / provider, press the `+` button in the bottom left to add a new model to your `config.json`. Learn more about the models and providers [here](https://continue.dev/docs/model-setup/overview).
-
-## Contributing
-
-Check out the [contribution ideas board](https://github.com/orgs/continuedev/projects/2), read the [contributing guide](https://github.com/continuedev/continue/blob/main/CONTRIBUTING.md), and join [#contribute on Discord](https://discord.gg/vapESyrFmJ)
-
-## License
-
-[Apache 2.0 © 2023 Continue Dev, Inc.](./LICENSE)
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">任务和选项卡自动完成</font></font></h2><a id="user-content-task-and-tab-autocomplete" class="anchor" aria-label="永久链接：任务和选项卡自动完成" href="#task-and-tab-autocomplete"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">回答编码问题</font></font></h3><a id="user-content-answer-coding-questions" class="anchor" aria-label="永久链接：回答编码问题" href="#answer-coding-questions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">突出显示并选择代码部分并询问“继续”以获取另一个视角</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“这个 forRoot() 静态函数在 Nestjs 中做什么？”</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“为什么这个查询中的第一个左连接在这里是必要的？”</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“我如何在这个 Rust 二进制文件上运行性能基准测试？”</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用自然语言编辑</font></font></h3><a id="user-content-edit-in-natural-language" class="anchor" aria-label="永久链接：用自然语言编辑" href="#edit-in-natural-language"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">突出显示并选择一段代码并指示继续重构它</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“/edit 重写此函数以从 3x3 矩阵返回展平列表”</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“/edit 将它们重构为一行上的角度柔性布局”</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“/edit 在此处定义字典列表列表的类型”</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">从头开始生成文件</font></font></h3><a id="user-content-generate-files-from-scratch" class="anchor" aria-label="永久链接：从头开始生成文件" href="#generate-files-from-scratch"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打开一个空白文件，让Continue启动新的Python脚本、React组件等。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“/edit 让我开始使用基本的 SUPABASE 边缘功能”</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“/edit 以简洁的方式实现 C++ 最短路径算法”</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“/edit 使用 php 和 mysql 服务器创建一个 docker compose 文件”</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以及更多！</font></font></h3><a id="user-content-and-much-more" class="anchor" aria-label="永久链接：还有更多！" href="#and-much-more"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">尝试</font><font style="vertical-align: inherit;">在 VS Code 中</font></font><a href="https://continue.dev/docs/walkthroughs/tab-autocomplete" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对本地选项卡自动完成提供实验性支持</font></font></a><font style="vertical-align: inherit;"></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用</font></font><a href="https://continue.dev/docs/customization/context-providers#built-in-context-providers" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内置上下文提供程序</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或创建您自己的</font></font><a href="https://continue.dev/docs/customization/context-providers#building-your-own-context-provider" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自定义上下文提供程序</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用</font></font><a href="https://arc.net/l/quote/zbhwfjmp" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内置斜杠命令</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或创建您自己的</font></font><a href="https://continue.dev/docs/customization/slash-commands#custom-slash-commands" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自定义斜杠命令</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h2><a id="user-content-getting-started" class="anchor" aria-label="永久链接：开始使用" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h4 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下载</font></font><a href="https://marketplace.visualstudio.com/items?itemName=Continue.continue" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">VS Code</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><a href="https://plugins.jetbrains.com/plugin/22707-continue-extension" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JetBrains</font></font></a></h4><a id="user-content-download-for-vs-code-and-jetbrains" class="anchor" aria-label="永久链接：下载 VS Code 和 JetBrains" href="#download-for-vs-code-and-jetbrains"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以使用代理服务器免费试用Continue，该代理服务器分别通过 OpenAI、Google 和 Together 使用我们的 API 密钥安全地调用 GPT-4、Gemini Pro 和 Phind CodeLlama 等模型。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一旦您准备好使用自己的 API 密钥或不同的模型/提供商，请按</font></font><code>+</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">左下角的按钮将新模型添加到您的</font></font><code>config.json</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">. </font></font><a href="https://continue.dev/docs/model-setup/overview" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解有关模型和提供商的更多信息</font><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributing" class="anchor" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">查看</font></font><a href="https://github.com/orgs/continuedev/projects/2"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献想法板</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，阅读</font></font><a href="https://github.com/continuedev/continue/blob/main/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献指南</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，并加入</font></font><a href="https://discord.gg/vapESyrFmJ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord 上的#contribute</font></font></a></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="/continuedev/continue/blob/main/LICENSE"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apache 2.0 © 2023 继续开发公司。</font></font></a></p>
+</article></div>
